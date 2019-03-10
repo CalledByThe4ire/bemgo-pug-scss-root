@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "init": "node ./core/.del && git clone https://github.com/CalledByThe4ire/bemgo-pug-scss-init app"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "eslint": "^5.15.1",
+    "prettier": "^1.16.4",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.16.0",
+    "babel-eslint": "^10.0.3",
+    "normalize.scss": "^0.1.0",
+    "stylelint-config-sass-guidelines": "^5.3.0",
+    "stylelint-config-rational-order": "^0.0.4",
+    "stylelint-scss": "^3.4.0",
+    "stylelint-config-prettier": "^5.0.0"
+  }
+}
